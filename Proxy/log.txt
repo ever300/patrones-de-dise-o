@@ -1,0 +1,80 @@
+[2025-05-26 00:38:03] Consultó saldo: Ever Ochoa
+[2025-05-26 00:38:09] Consultó saldo: Ever
+[2025-05-26 00:38:20] Retiro: Ever -> Bs 2001
+[2025-05-26 00:38:35] Consultó saldo: Ever
+[2025-05-26 00:38:39] Consultó saldo: Ever
+[2025-05-26 00:38:46] Retiro: Ever -> Bs 2001
+[2025-05-26 00:38:51] Consultó saldo: Ever
+[2025-05-26 00:39:18] Consultó saldo: Ever
+[2025-05-26 00:39:36] Depósito: Ever -> Bs 100
+[2025-05-26 00:39:40] Consultó saldo: Ever
+[2025-05-26 00:39:49] Retiro: Ever -> Bs 200
+[2025-05-26 00:39:52] Consultó saldo: Ever
+[2025-05-26 00:40:24] Consultó saldo: Ever
+[2025-05-26 00:40:31] Retiro: Ever -> Bs 2000
+[2025-05-26 00:40:47] Consultó saldo: Ever
+[2025-05-26 00:43:11] Consultó saldo: Ever
+[2025-05-26 00:43:13] Consultó saldo: Ever
+[2025-05-26 00:43:22] Intento fallido de retiro: Ever quiso Bs 1901, saldo Bs 1900.00
+[2025-05-26 00:43:41] Consultó saldo: Ever
+[2025-05-26 00:43:57] Consultó saldo: 1900
+[2025-05-26 00:44:10] Intento fallido de retiro: Ever quiso Bs 1901, saldo Bs 1900.00
+[2025-05-26 00:46:20] Consultó saldo: Ever
+[2025-05-26 00:46:28] Consultó saldo: Ever
+[2025-05-26 00:46:31] Consultó saldo: Ever
+[2025-05-26 00:46:34] Consultó saldo: Ever
+[2025-05-26 00:46:40] Depósito: Ever -> Bs 100
+[2025-05-26 00:46:47] Consultó saldo: Ever
+[2025-05-26 00:47:14] Intento fallido de retiro: Ever quiso Bs 2001, saldo Bs 2000.00
+[2025-05-26 00:47:42] Depósito: Ever -> Bs 100
+[2025-05-26 00:47:56] Consultó saldo: eve
+[2025-05-26 00:48:08] Consultó saldo: Ever
+[2025-05-26 00:51:03] Consultó saldo: Ever
+[2025-05-26 00:51:08] Consultó saldo: Ever
+[2025-05-26 00:51:20] Intento fallido de retiro: Ever quiso Bs 2101, saldo Bs 2100.00
+[2025-05-26 00:51:39] Depósito exitoso: Ever -> Bs 200
+[2025-05-26 00:53:27] Depósito exitoso: Ever -> Bs 200
+[2025-05-26 00:53:30] Consultó saldo: Ever
+[2025-05-26 00:53:40] Intento fallido de retiro: Ever quiso Bs 2600, saldo Bs 2500.00
+[2025-05-26 00:53:58] Depósito exitoso: Ever -> Bs 1200
+[2025-05-26 00:54:55] Consultó saldo: Harold
+[2025-05-26 06:10:47] Consultó saldo: Ever
+[2025-05-26 06:10:54] Retiro exitoso: Ever -> Bs 500
+[2025-05-26 06:27:17] Retiro exitoso: Ever -> Bs 500
+[2025-05-26 06:27:20] Consultó saldo: Harold
+[2025-05-26 06:27:28] Depósito exitoso: Harold -> Bs 500
+[2025-05-26 06:27:40] Retiro exitoso: Harold -> Bs 2100
+[2025-05-26 06:28:36] Consultó saldo: Carlos
+[2025-05-26 06:28:43] Consultó saldo: Carloss
+[2025-05-26 06:28:57] Depósito exitoso: Carlos -> Bs 502
+[2025-05-26 06:29:07] Intento fallido de retiro: Carlos quiso Bs 5600, saldo Bs 5502.00
+[2025-05-26 06:29:44] Consultó saldo: Harold
+[2025-05-26 06:30:35] Consultó saldo: Carlos
+[2025-05-26 06:30:55] Intento fallido de retiro: Carlos quiso Bs 5600, saldo Bs 5502.00
+[2025-05-26 06:31:05] Retiro exitoso: Carlos -> Bs 10
+[2025-05-26 06:39:24] Consultó saldo: Ever
+[2025-05-26 06:39:26] Consultó saldo: Harold
+[2025-05-26 06:39:34] Retiro exitoso: Carlos -> Bs 500
+[2025-05-26 06:39:50] Retiro exitoso: Carlos -> Bs 992
+[2025-05-26 06:39:55] Consultó saldo: Carlos
+[2025-05-26 09:30:50] Consultó saldo: Carlos
+[2025-05-26 09:34:24] Consultó saldo: Ever
+[2025-05-26 09:34:54] Consultó saldo: Harold
+[2025-05-26 09:35:01] Depósito exitoso: Harold -> Bs 600
+[2025-05-26 09:35:14] Consultó saldo: Carlos
+[2025-05-26 09:35:22] Retiro exitoso: Carlos -> Bs 1000
+[2025-05-26 09:35:35] Intento fallido de retiro: Carlos quiso Bs 4000, saldo Bs 3000.00
+[2025-05-26 09:36:01] Consultó saldo: Pepe
+[2025-05-26 09:50:22] Consultó saldo: Ever
+[2025-05-26 09:50:34] Retiro exitoso: Ever -> Bs 200
+[2025-05-26 09:51:03] Consultó saldo: Harold
+[2025-05-26 09:51:09] Intento fallido de retiro: Harold quiso Bs 2000, saldo Bs 1000.00
+[2025-05-26 09:51:19] Consultó saldo: Carlos
+[2025-05-26 09:51:38] Consultó saldo: Pepe
+[2025-05-26 13:08:56] Consultó saldo: Pepe
+[2025-05-26 13:08:58] Consultó saldo: Ever
+[2025-05-28 13:25:28] Consultó saldo: Ever
+[2025-05-28 13:25:49] Depósito exitoso: Ever -> Bs 500
+[2025-05-28 13:26:13] Consultó saldo: Everr
+[2025-05-28 13:26:23] Consultó saldo: Ever
+[2025-05-28 13:26:31] Intento fallido de retiro: Ever quiso Bs 3001, saldo Bs 3000.00
